@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fillViewport="false">
+
+
+    <TextView
+        android:id="@+id/side_total_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="#a7c5cc"
+        android:textColor="#fff"
+        android:textSize="10pt"
+        android:textStyle="bold"/>
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/side_video_webView"
+        android:layout_weight="0.83" />
+
+    <TextView
+        android:id="@+id/side_total_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/side_total_progress"
+        android:gravity="center_horizontal"
+        android:textSize="11pt"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:id="@+id/side_total_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_weight="1"
+        />
+
+    <TextView
+        android:id="@+id/side_donation_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:maxLines="15"
+        android:padding="5dp"
+        android:scrollbars="vertical"
+        android:background="#DDE9EC"
+        android:textSize="8pt"
+        android:typeface="serif"
+        />
+
+    <Button
+        android:text="후원 결과"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#a7c5cc"
+        android:id="@+id/preDodaResultButton" />
+
+</LinearLayout>

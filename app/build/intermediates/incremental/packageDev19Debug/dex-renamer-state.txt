@@ -1,0 +1,7 @@
+#Wed Apr 25 17:54:47 KST 2018
+base.0=D\:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run_ebd0ffef5fc6c29c5ef0d35d0ee25314fec2ff15
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f0e90d71e7afffe044bd42da051faca6928b59e3\\classes.dex
+base.1=D\:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f0e90d71e7afffe044bd42da051faca6928b59e3
+file.0=D\:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run_ebd0ffef5fc6c29c5ef0d35d0ee25314fec2ff15\\classes.dex

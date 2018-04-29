@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_left_out.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_right_out.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\animator\\card_flip_right_out.xml"
+    }
+]

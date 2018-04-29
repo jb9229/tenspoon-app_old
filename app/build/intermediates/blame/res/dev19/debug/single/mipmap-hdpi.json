@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\mipmap-hdpi\\dev_icon.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\mipmap-hdpi\\dev_icon.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

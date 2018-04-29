@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">tenspoon</string>
+  <string name="dev_activity_name">Exponent Dev</string>
+  <string name="preference_file_key">host.exp.exponent.SharedPreferences</string>
+  <string name="error_default">Something went wrong. Sorry about that.</string>
+  <string name="error_unable_to_load_experience">Unable to load Experience.</string>
+  <string name="ERRORMSG_UNEXPECT">Sorry, unexpect exception!!</string>
+  <string name="drawer_open">Open navigation drawer</string>
+  <string name="drawer_close">Close navigation drawer</string>
+  <string name="ERRORMSG_ADTS_GET">Fail Get AdTS</string>
+  <string name="ERRORMSG_SIDEVIEW_OPEN">Fail Bowl Contents</string>
+</resources>

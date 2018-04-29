@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: host.exp.exponent:expoview-26.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5c2de69a5bcc1c675eafb2beca3511505ae3d4c1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5c2de69a5bcc1c675eafb2beca3511505ae3d4c1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/maven/host/exp/exponent/expoview/26.0.0/expoview-26.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

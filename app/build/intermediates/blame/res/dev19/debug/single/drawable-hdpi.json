@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\but_ad_sideslide.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\but_ad_sideslide.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\ic_share_white_36dp.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_share_white_36dp.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\ic_logo_white_32dp.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_white_32dp.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\unlock_bg_touch.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\unlock_bg_touch.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\unlock_bg.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\unlock_bg.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\ic_arrow_back_white_36dp.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_white_36dp.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\ic_home_white_36dp.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_home_white_36dp.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-hdpi\\ic_refresh_white_36dp.png",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh_white_36dp.png"
+    }
+]

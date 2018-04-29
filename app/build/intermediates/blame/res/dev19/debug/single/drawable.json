@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\btn_default_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\btn_default_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\loading_status_bar_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\loading_status_bar_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\edf6bd5d381234f6034a55742dcdd6f6a13e6295\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\background_white.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\48c1af4dea05d439e13279f299b6ce9f113e7be1\\output\\res\\drawable\\background_white.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\card_512.png",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\card_512.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\stp_card_form_front.png",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\stp_card_form_front.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\spinner_background_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\spinner_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\crop_image_menu_crop_stub.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\6c1e10079d10360cc70b2f803031e8c1d9c0615a\\output\\res\\drawable\\crop_image_menu_crop_stub.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\splash_background.xml",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\header_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\header_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\04248e9e1e9509ef7ab171e26e9ebff88726606f\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\edit_text_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\edit_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\edf6bd5d381234f6034a55742dcdd6f6a13e6295\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\3620e90fbe0c7eead058b995d80bf8adb7ed4b7f\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\3620e90fbe0c7eead058b995d80bf8adb7ed4b7f\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\stp_card_form_back.png",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\stp_card_form_back.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\card_input_custom_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\5c2de69a5bcc1c675eafb2beca3511505ae3d4c1\\output\\res\\drawable\\card_input_custom_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\77c0d54830b009de92d569413db76d6f4d1e29c3\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\3620e90fbe0c7eead058b995d80bf8adb7ed4b7f\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\04248e9e1e9509ef7ab171e26e9ebff88726606f\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\04248e9e1e9509ef7ab171e26e9ebff88726606f\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\3620e90fbe0c7eead058b995d80bf8adb7ed4b7f\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\tooltip_frame_light.xml"
+    }
+]

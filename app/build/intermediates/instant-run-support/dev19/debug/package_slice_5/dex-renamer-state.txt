@@ -1,0 +1,4 @@
+#Sat Apr 28 08:42:45 KST 2018
+base.0=D\:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\work\\project\\1_tenspoon\\source\\app\\react\\tenspoon\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\5\\slice_5\\classes.dex
